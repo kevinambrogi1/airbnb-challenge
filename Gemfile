@@ -31,3 +31,5 @@ end
 group :production do
   gem 'rails_12factor'
 end
+
+gem 'faker', '1.6.3'
